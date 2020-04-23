@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
+// ESTOU ESCREVENDO ISSO PARA VERIFICAR AS ALTERAÇÕES NO GIT
 /*
 |--------------------------------------------------------------------------
 | Web Routes
